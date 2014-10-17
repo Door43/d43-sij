@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sij:home|Door43 (sij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sij|d43-sij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sij/archive/master.zip|d43-sij.zip]]
+
+**Recent Changes**
+{{changes>ns = sij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sij|Ethnologue data]]
+
